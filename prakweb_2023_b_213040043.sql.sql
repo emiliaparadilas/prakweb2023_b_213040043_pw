@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:3306
--- Waktu pembuatan: 29 Sep 2023 pada 14.18
+-- Waktu pembuatan: 07 Okt 2023 pada 00.12
 -- Versi server: 8.0.30
 -- Versi PHP: 8.1.10
 
@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `prakweb2023b_213040043`
+-- Database: `prakweb_2023_b_213040043`
 --
 
 -- --------------------------------------------------------
